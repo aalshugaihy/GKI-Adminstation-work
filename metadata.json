@@ -1,0 +1,9 @@
+{
+  "name": "Geospatial Operational Applications Platform",
+  "description": "Unified enterprise portal for Strategy, Knowledge Production, Projects, and Meetings management for the Geospatial Knowledge & Innovation sector.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
